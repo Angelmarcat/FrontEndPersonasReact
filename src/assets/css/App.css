@@ -1,9 +1,5 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
-  height: 40vmin;
+  height: 5vmin;
   pointer-events: none;
 }
 
@@ -35,4 +31,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.title-Personas {
+  margin-top: 3vh;
+}
+
+.section-buttons {
+  margin-top: 3vh;
+}
+
+.table-people {
+  width: 50vw;
 }
